@@ -7,3 +7,5 @@ How to use this application:
  - Configure your mysql instance in /src/main/resources/database.properties
 
 This application is built on top of Spring Boot 2.0.3
+
+You can find the application .JAR in the release tabs, and the sql in the sql folder.
